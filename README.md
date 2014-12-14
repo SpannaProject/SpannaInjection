@@ -1,4 +1,4 @@
 SpannaInjection
 ===============
 
-An injection of Forge and Bukkit into Spanna.
+An injection of Forge into Spanna.
